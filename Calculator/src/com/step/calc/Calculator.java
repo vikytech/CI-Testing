@@ -7,7 +7,7 @@ public class Calculator {
 
     public void add(int number) {
         result = result.add(BigInteger.valueOf(number));
-    }
+
 
     public BigInteger getResult() {
         return result;

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<project name="Generic Hash Map" basedir=".">
+<project name="CALC" basedir=".">
     <target name="compile" description="Compiles the source files">
         <delete dir="build"/>
         <mkdir dir="build/classes"/>
