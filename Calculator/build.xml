@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<project name="Generic Hash Map" basedir=".">
+    <target name="compile" description="Compiles the source files">
+        <delete dir="build"/>
+        <mkdir dir="build/classes"/>
+        <javac destdir="build/classes" debug="true" srcdir="src">
+
+        </javac>
+    </target>
+</project>
