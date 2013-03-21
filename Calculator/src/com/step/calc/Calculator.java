@@ -19,6 +19,7 @@ public class Calculator {
 
     public void multiply(int number) {
         result = result.multiply(BigInteger.valueOf(number));
+
     }
 
     public void divide(int number) {

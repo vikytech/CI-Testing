@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac45bac8-d08a-489d-9b0f-9e800910ad6d" name="Default" comment="" />
+    <list default="true" id="ac45bac8-d08a-489d-9b0f-9e800910ad6d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/step/calc/Calculator.java" afterPath="$PROJECT_DIR$/src/com/step/calc/Calculator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.xml" afterPath="$PROJECT_DIR$/build.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Calculator.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/CalculatorTest.java" changelist="ac45bac8-d08a-489d-9b0f-9e800910ad6d" time="1363763836346" ignored="false" />
@@ -16,8 +20,8 @@
     <file path="/Exception.java" changelist="ac45bac8-d08a-489d-9b0f-9e800910ad6d" time="1361430617516" ignored="false" />
     <file path="$PROJECT_DIR$/../Exception/src/com/exception/minimumBalanceException.java" changelist="ac45bac8-d08a-489d-9b0f-9e800910ad6d" time="1361430650455" ignored="false" />
     <file path="$PROJECT_DIR$/../Exception/src/com/thoughtworks/exception/minimumBalanceException.java" changelist="ac45bac8-d08a-489d-9b0f-9e800910ad6d" time="1361430939019" ignored="false" />
-    <file path="/Dummy.txt" changelist="ac45bac8-d08a-489d-9b0f-9e800910ad6d" time="1363838386835" ignored="false" />
-    <file path="/build.xml" changelist="ac45bac8-d08a-489d-9b0f-9e800910ad6d" time="1363841769962" ignored="false" />
+    <file path="/Dummy.txt" changelist="ac45bac8-d08a-489d-9b0f-9e800910ad6d" time="1363874609983" ignored="false" />
+    <file path="/build.xml" changelist="ac45bac8-d08a-489d-9b0f-9e800910ad6d" time="1363874643901" ignored="false" />
     <file path="$PROJECT_DIR$/../../../forum/build/report/test/TESTS-TestSuites.xml" changelist="ac45bac8-d08a-489d-9b0f-9e800910ad6d" time="1363839032056" ignored="false" />
     <file path="$PROJECT_DIR$/../../../forum/build/report/test/TEST-com.forum.web.page.tests.ExampleFunctionalTests.xml" changelist="ac45bac8-d08a-489d-9b0f-9e800910ad6d" time="1363839650459" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,7 +38,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -69,6 +72,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -81,25 +85,25 @@
       <file leaf-file-name="CalculatorTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/com/step/calc/CalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="166" column="27" selection-start="5187" selection-end="5187" vertical-scroll-proportion="0.0">
+            <state line="178" column="88" selection-start="5538" selection-end="5538" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="build.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="19" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0">
+            <state line="5" column="63" selection-start="254" selection-end="254" vertical-scroll-proportion="0.12458472">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Calculator.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Calculator.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/step/calc/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="37" selection-start="579" selection-end="579" vertical-scroll-proportion="0.6174957">
+            <state line="21" column="8" selection-start="509" selection-end="509" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -124,8 +128,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/test/com/step/calc/CalculatorTest.java" />
-        <option value="$PROJECT_DIR$/build.xml" />
         <option value="$PROJECT_DIR$/src/com/step/calc/Calculator.java" />
+        <option value="$PROJECT_DIR$/build.xml" />
       </list>
     </option>
   </component>
@@ -160,6 +164,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -231,20 +236,19 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src" />
     <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.xml" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -254,35 +258,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTest.shouldAddSubtractMultiplyAndDivideGivenNegativeNumbers">
-    <configuration default="false" name="CalculatorTest.shouldAddAndMultiply3MaximumNumbers" type="JUnit" factoryName="JUnit" temporary="true">
-      <module name="Calculator" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.step.calc" />
-      <option name="MAIN_CLASS_NAME" value="com.step.calc.CalculatorTest" />
-      <option name="METHOD_NAME" value="shouldAddAndMultiply3MaximumNumbers" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.CalculatorTest">
     <configuration default="false" name="CalculatorTest.shouldAddMultiplyAndDivideGivenNumbers" type="JUnit" factoryName="JUnit" temporary="true">
       <module name="Calculator" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -371,6 +347,28 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="Calculator" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.step.calc" />
+      <option name="MAIN_CLASS_NAME" value="com.step.calc.CalculatorTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -383,6 +381,19 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -410,19 +421,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -460,19 +458,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.CalculatorTest.shouldAddAndMultiply3MaximumNumbers" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorTest.shouldAddMultiplyAndDivideGivenNumbers" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorTest.shouldAddMultiplyAndSubtractGivenNegativeNumbers" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.All in Calculator" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.CalculatorTest.shouldAddSubtractMultiplyAndDivideGivenNegativeNumbers" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.CalculatorTest.shouldAddMultiplyAndDivideGivenNumbers" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorTest.shouldAddMultiplyAndSubtractGivenNegativeNumbers" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.All in Calculator" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.CalculatorTest.shouldAddSubtractMultiplyAndDivideGivenNegativeNumbers" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.CalculatorTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CalculatorTest.shouldAddSubtractMultiplyAndDivideGivenNegativeNumbers" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorTest.shouldAddMultiplyAndDivideGivenNumbers" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.All in Calculator" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.CalculatorTest.shouldAddMultiplyAndSubtractGivenNegativeNumbers" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.CalculatorTest.shouldAddAndMultiply3MaximumNumbers" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.CalculatorTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorTest.shouldAddSubtractMultiplyAndDivideGivenNegativeNumbers" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorTest.shouldAddMultiplyAndDivideGivenNumbers" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.All in Calculator" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.CalculatorTest.shouldAddMultiplyAndSubtractGivenNegativeNumbers" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -521,24 +519,24 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1920" height="1053" extended-state="1" />
+    <frame x="0" y="27" width="1920" height="1053" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.67292815" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.69392264" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39829606" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32707182" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3263506" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1474359" sideWeight="0.67292815" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30607736" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1474359" sideWeight="0.69392264" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30607736" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -707,23 +705,23 @@
         <state line="8" column="18" selection-start="307" selection-end="307" vertical-scroll-proportion="0.16376306" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.xml">
+    <entry file="file://$PROJECT_DIR$/src/com/step/calc/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="19" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0">
+        <state line="21" column="8" selection-start="509" selection-end="509" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/com/step/calc/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="166" column="27" selection-start="5187" selection-end="5187" vertical-scroll-proportion="0.0">
+        <state line="178" column="88" selection-start="5538" selection-end="5538" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/step/calc/Calculator.java">
+    <entry file="file://$PROJECT_DIR$/build.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="37" selection-start="579" selection-end="579" vertical-scroll-proportion="0.6174957">
+        <state line="5" column="63" selection-start="254" selection-end="254" vertical-scroll-proportion="0.12458472">
           <folding />
         </state>
       </provider>
