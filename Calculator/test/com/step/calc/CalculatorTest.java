@@ -202,7 +202,7 @@ public class CalculatorTest {
         calculator.divide(2);
         calculator.add(-5);
         calculator.multiply(10);
-        assertThat(calculator.getResult(), equalTo(BigInteger.valueOf(3563443)));
+        assertThat(calculator.getResult(), equalTo(BigInteger.valueOf(0)));
     }
 
     @Test(expected = RuntimeException.class)
