@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ac45bac8-d08a-489d-9b0f-9e800910ad6d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/step/calc/Calculator.java" afterPath="$PROJECT_DIR$/src/com/step/calc/Calculator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/com/step/calc/CalculatorTest.java" afterPath="$PROJECT_DIR$/test/com/step/calc/CalculatorTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.xml" afterPath="$PROJECT_DIR$/build.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Calculator.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -104,7 +101,7 @@
       <file leaf-file-name="Calculator.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/step/calc/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="8" selection-start="664" selection-end="664" vertical-scroll-proportion="0.6689537">
+            <state line="26" column="9" selection-start="665" selection-end="665" vertical-scroll-proportion="0.6689537">
               <folding />
             </state>
           </provider>
@@ -728,7 +725,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/step/calc/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="8" selection-start="664" selection-end="664" vertical-scroll-proportion="0.6689537">
+        <state line="26" column="9" selection-start="665" selection-end="665" vertical-scroll-proportion="0.6689537">
           <folding />
         </state>
       </provider>

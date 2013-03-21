@@ -24,7 +24,7 @@ public class Calculator {
     public void divide(int number) {
         if (number == 0) {
             throw new RuntimeException("can't divide a number by zero :(");
-         else {
+        } else {
             result = result.divide(BigInteger.valueOf(number));
         }
     }
